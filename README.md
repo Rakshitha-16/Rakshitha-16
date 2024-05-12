@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently looking for opportunities to endorse my skills and building impactful projects to drive engagement 
+I'm currently looking for opportunities to endorse my skills in building impactful projects to drive engagement 
 
 
 ## 🌐 Socials:
