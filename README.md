@@ -12,7 +12,7 @@ I'm currently looking for opportunities to endorse my skills and building impact
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Rakshitha-16&theme=great-gatsby&hide_border=false)<br/>
 
 
-### ✍️ Random Dev Quote
+
 
 [![](https://visitcount.itsvg.in/api?id=Rakshitha-16&icon=2&color=7)](https://visitcount.itsvg.in)
 
