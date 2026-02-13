@@ -12,11 +12,9 @@ I'm currently looking for opportunities to endorse my skills in building impactf
 <br>
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![DevOps](https://img.shields.io/badge/DevOps-000000?style=flat) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=flat&logo=jira&logoColor=white)
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Rakshitha-16&theme=great-gatsby&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Rakshitha-16&theme=great-gatsby&hide_border=false)<br/>
 
 
 
 
-[![](https://visitcount.itsvg.in/api?id=Rakshitha-16&icon=2&color=7)](https://visitcount.itsvg.in)
+
+
